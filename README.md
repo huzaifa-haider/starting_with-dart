@@ -1,16 +1,17 @@
 # starting_with_dart
 
-A new Flutter project.
+Flutter learning basics
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+## Note:
+instead of creating a new file for every screen i have added all the screens in the main.dart file itself.
+
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [YouTube channel for creating this repo](https://www.youtube.com/watch?v=jqxz7QvdWk8&list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E)
+other Resources:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
